@@ -12,8 +12,8 @@
 }
 
 [data-theme="dark"] {
-  --primary-color: rgb(150, 65, 255);
-  --primary-variant: #bfbcfd;
+  --primary-color: rgb(255, 92, 92);
+  --primary-variant: rgb(255, 92, 92);
   --secondary-color: #03dac5;
   --on-primary: #000;
   --on-background: rgba(255, 255, 255, 0.9);
